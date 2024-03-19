@@ -6,7 +6,7 @@
 1. **Metodos:**
 - Conjunto de funções definidas em um componente Vue.js que podem ser chamadas para realizar operações específicas, como manipular dados, gerenciar estado ou responder a eventos.
   
-2. **Eventos: **
+2. **Eventos:**
 -  Mecanismo usado para lidar com interações do usuário, como cliques de mouse, pressionamentos de tecla ou envio de formulários, permitindo que os componentes Vue.js reajam dinamicamente às ações do usuário.
   
 3. **Multiplos Eventos:**
